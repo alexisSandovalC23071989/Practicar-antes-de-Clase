@@ -6,4 +6,70 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     Created on : 21 ene. 2023, 21:58:39
     Author     : aldav
 */
+:root{
+    --principal:#212121;
+    --secundario :#0097a7;
+}
 
+.TituloPrincipal{
+
+    text-align: center;
+    font-size: 2.6rem;
+    padding: 0.5px;
+    color:#ffffff;
+
+}
+
+
+.navegacion-principal {
+
+    display:  flex;
+    /*Con esto poder centrar el texto y poderlo esparar el contenido horizotal o verticalmente*/
+    justify-content: space-between;
+    padding: 1rem;
+
+
+
+
+}
+
+
+.nav-bg {
+    /*Ajusta color de la barra*/
+   
+    /* Ajusta el tamaño de la letra*/
+    font-size: 1px;
+    /**/
+
+
+
+}
+.lupa{
+    padding: 20px;
+    color:#ffffff;
+    
+}
+
+
+.contenedor {
+    
+
+}
+
+.footer {
+    text-align: center;
+    color:#ffffff;
+
+}
+.imagen{
+
+    width: 0;
+
+}
+.parafo{
+    background-color:#414224;
+    color: #ffffff;
+    padding: 1px;
+    border-radius: 15px;
+
+}
