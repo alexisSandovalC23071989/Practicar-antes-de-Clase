@@ -1,0 +1,43 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 feb. 2023, 19:13:26
+    Author     : aldav
+*/
+
+.text{
+    
+   text-align: center;
+    font-size: 4.6rem;
+    padding: 0.5px;
+    color:black;
+
+
+}
+.derechos{
+    
+    text-align: center;
+    color:black;
+    
+}
+.imagen-contenedor{
+     padding: 10px;
+     border-radius: 15px;
+     background-color:appworkspace;
+     
+}
+.parrafotext{
+    color:#ffffff;
+    background-color:aqua;
+   
+    
+    .nav-bgl{
+        
+         font-size: 1px;
+    }   
+    
+    
+    
+}

@@ -16,7 +16,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     text-align: center;
     font-size: 2.6rem;
     padding: 0.5px;
-    color:#ffffff;
+    color:black;
 
 }
 
@@ -27,6 +27,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     /*Con esto poder centrar el texto y poderlo esparar el contenido horizotal o verticalmente*/
     justify-content: space-between;
     padding: 1rem;
+    height: 40%;
 
 
 
@@ -40,10 +41,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     /* Ajusta el tamaño de la letra*/
     font-size: 1px;
     /**/
-
-
-
+   
 }
+
+
 .lupa{
     padding: 20px;
     color:#ffffff;
@@ -58,7 +59,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 
 .footer {
     text-align: center;
-    color:#ffffff;
+    color:black;
 
 }
 .imagen{
@@ -68,7 +69,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 }
 .parafo{
     background-color:#414224;
-    color: #ffffff;
+    color:#ffffff;
     padding: 1px;
     border-radius: 15px;
 
